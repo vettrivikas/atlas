@@ -753,7 +753,7 @@
         <MaxPermGen>512m</MaxPermGen>
         <netty.version>4.1.69.Final</netty.version>
         <node-for-v2.version>v12.16.0</node-for-v2.version>
-        <npm-for-v2.version>6.13.7</npm-for-v2.version>
+        <npm-for-v2.version>3.10.8</npm-for-v2.version>
         <opencsv.version>5.0</opencsv.version>
         <paranamer.version>2.7</paranamer.version>
         <PermGen>64m</PermGen>
